@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+
+     
+
+}
+
+h1,h2 {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aliceblue;
+    background-color:rgb(165, 30, 30,.9);
+
+}
+body{
+    margin-top: 5%;
+    background: url('https://www.youtz.com.br/wp-content/uploads/2019/10/YOUTZ-MATEMATICA-ENEM.jpg')  0 0;
+}
+
+header{
+    width: 40%;
+    height: 240px;
+    margin: auto auto;
+    text-align: center;
+    margin-top: 10%;
+    background-color: rgb(165, 30, 30,.9);
+    padding: 40px;
+    border-radius: 5px;
+    font-weight: bold;
+    
+}
+input{    
+    padding: 8px;
+    display: flex;
+    margin: auto auto;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    
+    
+}
+
+
+.butao{
+    padding: 40px;
+    margin: auto auto;
+    
+}
+
+button{
+ 
+    width: 80px;
+    height: 30px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    font-weight: bold;
+
+}
+
+p{
+    margin: auto;
+    padding: 20px;
+
+}
+
+span{
+     
+    width: 20px;
+
+}
+p{
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    height: 5px;
+    padding: 20px;
+    text-align: center;
+    margin: auto auto;
+    margin-left:auto;
+    border-radius: 5px;
+}
